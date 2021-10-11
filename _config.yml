@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: EXENVECTOR
+description: Un dépôt anonymisé pour la visualisation de données en 3 dimensions. 
